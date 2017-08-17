@@ -2,3 +2,8 @@
   background-color: #913050;
   font-family: "PT Sans Narrow";
 }
+
+h1 {
+  font-size: 150px;
+  align-items: center;
+}
